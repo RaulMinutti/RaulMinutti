@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e05584d8-e8ea-46cb-a2ac-8c3b243b7ded.jpeg?v=1793229843)](https://www.boot.dev/certificates/e05584d8-e8ea-46cb-a2ac-8c3b243b7ded)
 
 <!--
 **RaulMinutti/RaulMinutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
