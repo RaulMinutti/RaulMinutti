@@ -1,6 +1,13 @@
-## Hi there 👋
-[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e05584d8-e8ea-46cb-a2ac-8c3b243b7ded.jpeg?v=1793229843)](https://www.boot.dev/certificates/e05584d8-e8ea-46cb-a2ac-8c3b243b7ded)
+Hi there 👋
+I'm Raul a very curious polyglot who loves computers!
+🔭 I’m currently on my path to be a backend developer
+- 🌱 I’m currently learning python, bash.
+- 📫 How to reach me: raulminutti@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know Japanese, Spanish, Italian and English. I love languages and travel
 
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e05584d8-e8ea-46cb-a2ac-8c3b243b7ded.jpeg?v=1793229843)](https://www.boot.dev/certificates/e05584d8-e8ea-46cb-a2ac-8c3b243b7ded)
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/21b491c5-0792-40d1-942d-d3559ebac732.jpeg?v=1792009247)](https://www.boot.dev/certificates/21b491c5-0792-40d1-942d-d3559ebac732)
 <!--
 **RaulMinutti/RaulMinutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
